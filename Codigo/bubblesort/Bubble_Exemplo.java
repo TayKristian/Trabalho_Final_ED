@@ -7,7 +7,8 @@ package bubblesort;
  */public class Bubble_Exemplo {
     
     public static void main(String[] args) {
-         int Array[] = {3,6,2,1,8,4};
+         // String Array[] = {"Denylson","Taynnar","Elias","Henrique","Dionis","Bia"};
+         int Array[] = {3,5,9,7,6,8,2,8,17,18,8,7,74,1,78,1,8,21,7,5,5,1,8,1,8,2,87,178,2,8,9,89,1,8,8};
          int aux;
          boolean controle;
          
